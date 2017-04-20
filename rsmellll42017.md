@@ -52,7 +52,7 @@ JANUARY 2015 - JUNE 2017
 ### **VIRIDITY FOREVER LLC**, Buffalo, WY - *Owner and Web Developer*
 DECEMBER 2016 - PRESENT
 
-* Owner of WordPress web development company serving  small businesses and nonprofits.  VIRIDITY FOREVER LLC helps clients achieve the look of big business websites at a price that won't break the bank. We pride ourselves in our excellent customer service and one-on-one training.  
+* Owner of WordPress web development company serving  small businesses and nonprofits.  
 
 ### **King County**, Seattle, WA - *Administrative Staff Assistant*
 JANUARY 2013 - JANUARY 2015
