@@ -21,12 +21,8 @@ JANUARY 2015 - JUNE 2017
 * In 12 months less than the average amount of time it takes to complete two degrees, will complete two Associate's degrees in computer science disciplines and a certificate in Linux Administraton.
 * Apply Object-Oriented Design principles (encapsulation, inheritance, polymorphism) to software solutions
 * Evaluate efficiencies of different program designs (algorithms and data).
-* Choose or design appropriate classes and write efficient programs to solve given problems.
-* Document and test programs as prescribed by industry standards.
-* Analyze complex systems for development using tools and approaches that reflect current industry practices
 * Build SQL queries to create, access, summarize, and alter database information and objects
 * Use JavaScript, HTML, and CSS to apply user experience and user interface best practices for website design, including responsive design and search engine optimization
-* Study Linux administration skills for implementation in enterprise computing environments, past the equivalence of Linux+ certification. 
 * Examine and demonstrate Linux auto-configuration, file systems, partitioning, logical volumes, firewalling, LAN/WAN support applications, 
 * Configure Linux enterprise applications, such as web, mobility, email, storage, cloud virtualization, database, and troubleshooting. 
 * Implement third-party applications and mixed server environments, including integration with Microsoft products.
