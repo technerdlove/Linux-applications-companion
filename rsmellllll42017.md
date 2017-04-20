@@ -2,7 +2,6 @@
 ##### technerdlove@gmail.com
 ##### https://github.com/technerdlove
 ##### Seattle, Washington, U.S.A.  
-
 *******
 #### SUMMARY
 
@@ -26,7 +25,6 @@ JANUARY 2015 - JUNE 2017
 * Examine and demonstrate Linux auto-configuration, file systems, partitioning, logical volumes, firewalling, LAN/WAN support applications, 
 * Configure Linux enterprise applications, such as web, mobility, email, storage, cloud virtualization, database, and troubleshooting. 
 * Implement third-party applications and mixed server environments, including integration with Microsoft products.
-
 
 *******
 #### AWARDS
